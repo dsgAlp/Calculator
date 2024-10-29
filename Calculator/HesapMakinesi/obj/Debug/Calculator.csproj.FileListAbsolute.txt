@@ -1,0 +1,11 @@
+C:\Users\alparslan\Desktop\ornek_16\HesapMakinesi\bin\Debug\HesapMakinesi.exe.config
+C:\Users\alparslan\Desktop\ornek_16\HesapMakinesi\bin\Debug\HesapMakinesi.exe
+C:\Users\alparslan\Desktop\ornek_16\HesapMakinesi\bin\Debug\HesapMakinesi.pdb
+C:\Users\alparslan\Desktop\ornek_16\HesapMakinesi\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\alparslan\Desktop\ornek_16\HesapMakinesi\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\alparslan\Desktop\ornek_16\HesapMakinesi\obj\Debug\HesapMakinesi.Form1.resources
+C:\Users\alparslan\Desktop\ornek_16\HesapMakinesi\obj\Debug\HesapMakinesi.Properties.Resources.resources
+C:\Users\alparslan\Desktop\ornek_16\HesapMakinesi\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\alparslan\Desktop\ornek_16\HesapMakinesi\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\alparslan\Desktop\ornek_16\HesapMakinesi\obj\Debug\HesapMakinesi.exe
+C:\Users\alparslan\Desktop\ornek_16\HesapMakinesi\obj\Debug\HesapMakinesi.pdb
